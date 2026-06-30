@@ -90,7 +90,7 @@ Key packages used:
 
 ## Author
 
-Siddhant, Numatix
+Rishit Singh
 
 ## Acknowledgments
 
