@@ -1,0 +1,14 @@
+BACKTEST RESULTS
+==================================================
+total_trades: 4500
+winning_trades: 1747
+losing_trades: 2753
+win_rate: 38.82
+total_pnl: -5226.85
+avg_pnl: -1.16
+avg_win: 3.87
+avg_loss: -4.35
+profit_factor: 0.56
+max_win: 46.47
+max_loss: -31.28
+max_drawdown: -5291.26

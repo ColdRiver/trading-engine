@@ -1,0 +1,44 @@
+BACKTEST RESULTS
+==================================================
+total_trades: 4500
+winning_trades: 1747
+losing_trades: 2753
+win_rate: 38.82
+total_pnl: -5226.85
+avg_pnl: -1.16
+avg_win: 3.87
+avg_loss: -4.35
+profit_factor: 0.56
+max_win: 46.47
+max_loss: -31.28
+max_drawdown: -5291.26
+
+LIVE TRADING RESULTS
+==================================================
+total_trades: 7
+winning_trades: 1
+losing_trades: 6
+win_rate: 14.29
+total_pnl: -0.81
+avg_pnl: -0.12
+avg_win: 0.13
+avg_loss: -0.16
+profit_factor: 0.14
+max_win: 0.13
+max_loss: -0.28
+max_drawdown: -0.72
+
+COMPARISON (Live - Backtest)
+==================================================
+total_trades: -4493
+winning_trades: -1746
+losing_trades: -2747
+win_rate: -24.54
+total_pnl: 5226.04
+avg_pnl: 1.05
+avg_win: -3.74
+avg_loss: 4.20
+profit_factor: -0.42
+max_win: -46.34
+max_loss: 31.00
+max_drawdown: 5290.53
